@@ -21,7 +21,7 @@
 
 <p align="center">
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanchitAg2005&theme=custom&background=0c0e1a&title=fe5e3b&text=fff6e0&sideNums=00e5ff&sideLabels=fff6e0&dates=c71a5e&ring=fe5e3b&fire=fe5e3b&currStreakNum=00e5ff&border=1c2333" alt="Sanchit's Commit Streak" height="155" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanchitAg2005&theme=custom&background=0c0e1a&title=fe5e3b&text=fff6e0&sideNums=00e5ff&sideLabels=fff6e0&dates=c71a5e&ring=fe5e3b&fire=fe5e3b&currStreakNum=00e5ff&border=1c2333" alt="Sanchit's Commit Streak" height="156" />
 </p>
 
 ---
