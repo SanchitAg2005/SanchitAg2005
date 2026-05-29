@@ -1,9 +1,5 @@
 # 🌌 Sanchit Agarwal
 
-<p align="center">
-  <img src="banner.png" alt="Sanchit's Cozy Cyber Sunset Starry Workspace" width="70%" style="border-radius: 12px; border: 1px solid #1c2333; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);" />
-</p>
-
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
 │ sanchit@system:~$ init --profile sanchit-agarwal                       │
