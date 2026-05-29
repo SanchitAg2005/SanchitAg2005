@@ -20,7 +20,6 @@
 ## 📊 Live Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanchitAg2005&show_icons=true&theme=custom&bg_color=0c0e1a&title_color=00e5ff&text_color=fff6e0&icon_color=fe5e3b&accent_color=c71a5e&border_color=1c2333&hide_border=false" alt="Sanchit's GitHub Stats" height="155" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanchitAg2005&theme=custom&background=0c0e1a&title=fe5e3b&text=fff6e0&sideNums=00e5ff&sideLabels=fff6e0&dates=c71a5e&ring=fe5e3b&fire=fe5e3b&currStreakNum=00e5ff&border=1c2333" alt="Sanchit's Commit Streak" height="155" />
 </p>
